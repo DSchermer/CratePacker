@@ -1,0 +1,22 @@
+version: "2025.10"
+crates:
+  - id: "crate_68x50"
+    length: 68
+    width: 50
+    priority: 1
+    cost: 145
+  - id: "crate_54x48"
+    length: 54
+    width: 48
+    priority: 2
+    cost: 130
+  - id: "crate_48x40"
+    length: 48
+    width: 40
+    priority: 3
+    cost: 120
+  - id: "crate_36x28"
+    length: 36
+    width: 28
+    priority: 4
+    cost: 90

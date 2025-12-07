@@ -1,0 +1,22 @@
+version: "2025.10-boxes"
+boxes:
+  - id: "box_6x6"
+    length: 6
+    width: 6
+    priority: 1
+    cost: 1.5
+  - id: "box_10x10"
+    length: 10
+    width: 10
+    priority: 2
+    cost: 2.75
+  - id: "box_23x12"
+    length: 23
+    width: 12
+    priority: 3
+    cost: 4.5
+  - id: "box_23x16"
+    length: 23
+    width: 16
+    priority: 4
+    cost: 5.25
